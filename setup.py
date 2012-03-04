@@ -8,7 +8,7 @@ README = open(os.path.join(here, 'README.txt')).read()
 
 setup(name='lfs_sofortueberweisung',
       version=version,
-      description='sofortueberweisung.de for LFS',
+      description='Payment processor sofortueberweisung.de for LFS',
       long_description=README,
       classifiers=[
           'Environment :: Web Environment',
