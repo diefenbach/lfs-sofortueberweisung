@@ -1,2 +1,4 @@
 *.pyc
 .DS_Store
+*dist/
+*lfs_sofortueberweisung.egg-info/

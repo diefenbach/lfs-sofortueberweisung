@@ -1,4 +1,4 @@
-Copyright (c) 2010-2012, Kai Diefenbach (kai.diefenbach@iqpp.de)
+Copyright (c) 2012, Kai Diefenbach (kai.diefenbach@iqpp.de)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
