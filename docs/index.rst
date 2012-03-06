@@ -6,7 +6,11 @@
 lfs_sofortueberweisung
 ======================
 
-Payment processor `sofortüberweisung.de`_ for `LFS`_.
+What is it?
+-----------
+
+lfs_sofortueberweisung is the integration of the payment processor
+`sofortüberweisung`_ for `LFS`_.
 
 Installation
 ------------
@@ -48,7 +52,6 @@ See also
 --------
 
 * `LFS Settings <http://docs.getlfs.com/en/latest/developer/settings.html>`_
-
 
 .. _`sofortüberweisung.de`: https://www.payment-network.com/sue_de
 .. _`LFS`: http://pypi.python.org/pypi/django-lfs
