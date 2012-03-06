@@ -53,5 +53,5 @@ See also
 
 * `LFS Settings <http://docs.getlfs.com/en/latest/developer/settings.html>`_
 
-.. _`sofortüberweisung.de`: https://www.payment-network.com/sue_de
+.. _`sofortüberweisung`: https://www.payment-network.com/sue_de
 .. _`LFS`: http://pypi.python.org/pypi/django-lfs
